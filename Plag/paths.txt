@@ -1,0 +1,3 @@
+C xampp htdocs Plag
+C xampp htdocs Plag stlye
+c xampp htdocs Plag dbconfig
